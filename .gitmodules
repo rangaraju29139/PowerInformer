@@ -1,0 +1,3 @@
+[submodule "PowerInformerFrontEnd"]
+	path = PowerInformerFrontEnd
+	url = https://github.com/rangaraju29139/PowerInformerFrontend.git
